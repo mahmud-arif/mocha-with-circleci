@@ -1,0 +1,15 @@
+{
+  "name": "Mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grabData.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "../node_modules/.bin/mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
